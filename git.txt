@@ -1,1 +1,2 @@
-Hello from my Git AWS practice
+AWS hands-on started
+will practice now
